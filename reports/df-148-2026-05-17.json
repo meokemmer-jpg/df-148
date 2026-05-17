@@ -1,0 +1,31 @@
+{
+  "cash_balance_eur": 0.0,
+  "df": "DF-148",
+  "iso_timestamp": "2026-05-17T06:17:12.309452+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "monthly_burn_eur": 0.0,
+  "scenario_results": {
+    "baseline": {
+      "cash_balance_eur": 0.0,
+      "monthly_burn_eur": 0.0,
+      "survival_months": 0.0
+    },
+    "stress_25pct_burn": {
+      "cash_balance_eur": 0.0,
+      "monthly_burn_eur": 0.0,
+      "survival_months": 0.0
+    },
+    "three_month_cash_survival": {
+      "baseline_ge_3": false,
+      "stressed_ge_3": false
+    }
+  },
+  "source": "mock",
+  "survival_months_baseline": 0.0,
+  "survival_months_stressed": 0.0,
+  "welle": "25"
+}
