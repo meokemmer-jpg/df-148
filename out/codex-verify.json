@@ -1,0 +1,6 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test nutzt echte Datei-Inputs und echte Engine-Funktionen, vergleicht einen adversarialen Stressfall gegen einen Gegenfall und verlangt konkret andere Burn-Rate-, Runway- und Auto-Liquidations-Ergebnisse.",
+  "ts": "2026-07-08T23:07:49.390997+00:00",
+  "attempts": 1
+}
